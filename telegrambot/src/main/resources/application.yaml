@@ -1,0 +1,9 @@
+logging.level.org.springframework.web: DEBUG
+server:
+ port: 8080
+ host: localhost
+# BotConfiguration
+botUserName: '@UCSOFT2_bot'
+token: 1859495162:AAGgsuk-Fs7hF4kJn7TvZVIczTVmUchWpRo
+chartId: chartId
+secret: secret
